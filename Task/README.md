@@ -42,7 +42,7 @@ As the Information Security Analyst on the response, my objective was to **recov
 5. Catches the `RuntimeError` that `zipfile` raises on an incorrect password, and continues to the next candidate
 6. Stops and reports success as soon as the correct password is found — or reports that no match was found in the wordlist
 
-See [`ransomware_decryptor.py`](./Task/ransomware_decryptor.py) for the fully commented implementation.
+See [`ransomware_decryptor.py`](./ransomware_decryptor.py) for the fully commented implementation.
 
 ## ▶️ Try It Yourself
 

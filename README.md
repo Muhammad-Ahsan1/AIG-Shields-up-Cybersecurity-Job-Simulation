@@ -2,8 +2,7 @@
 
 ## AIG Shields Up: Cybersecurity Job Simulation — Forage
 
-> 📌 **Note:** Add your certificate image to this folder (e.g. `AIG_Shields_Up_Certificate.jpg`) and embed it below using:
-> `![AIG Shields Up Cybersecurity Certificate](./AIG_Sheilds_up_Cybersecurity_Certificate.jpg)`
+![AIG Shields Up Cybersecurity Certificate](./AIG_Sheilds_up_Cybersecurity_Certificate.jpg)
 
 ## 📌 Role
 
